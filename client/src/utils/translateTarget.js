@@ -1,0 +1,32 @@
+const translateTarget = {
+    bg: 'bulgarian',
+    cs: 'czech',
+    da: 'danish',
+    de: 'german',
+    el: 'greek',
+    'en-US': 'english',
+    es: 'spanish',
+    et: 'estonian',
+    fi: 'finnish',
+    fr: 'french',
+    hu: 'hungarian',
+    id: 'indonesian',
+    it: 'italian',
+    ja: 'japanese',
+    lt: 'lithuanian',
+    lv: 'latvian',
+    nl: 'dutch',
+    pl: 'polish',
+    'pt-br': 'portuguese (brazilian)',
+    'pt-pt': 'portuguese',
+    ro: 'romanian',
+    ru: 'russian',
+    sk: 'slovak',
+    sl: 'slovenian',
+    sv: 'swedish',
+    tr: 'turkish',
+    uk: 'ukrainian',
+    zh: 'chinese (simplified)'
+}
+
+export default translateTarget;
